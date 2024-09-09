@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Number Feed</title>
+    <link>https://example.com/rss</link>
+    <description>A feed that stores the value 20</description>
+    <item>
+      <title>Current Value</title>
+      <description>20</description>
+      <link>https://example.com/value</link>
+      <guid>1</guid>
+    </item>
+  </channel>
+</rss>
