@@ -8,9 +8,8 @@
       <title>Current Value</title>
       <description>20</description>
       <link>https://example.com/value</link>
-      <guid>1</guid>
+      <guid isPermaLink="false">1</guid>
       <pubDate>Mon, 09 Sep 2024 12:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
-
